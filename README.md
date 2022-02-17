@@ -1,1 +1,1 @@
-### This is test repository for my SMart Contract project
+### This is test repository for my Smart Contract project
